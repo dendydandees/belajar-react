@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/belajar-react/static/css/main.71bd5e9e.chunk.css",
+    "main.js": "/belajar-react/static/js/main.d2731c9f.chunk.js",
+    "main.js.map": "/belajar-react/static/js/main.d2731c9f.chunk.js.map",
+    "runtime-main.js": "/belajar-react/static/js/runtime-main.038f0190.js",
+    "runtime-main.js.map": "/belajar-react/static/js/runtime-main.038f0190.js.map",
+    "static/js/2.34553e6c.chunk.js": "/belajar-react/static/js/2.34553e6c.chunk.js",
+    "static/js/2.34553e6c.chunk.js.map": "/belajar-react/static/js/2.34553e6c.chunk.js.map",
+    "index.html": "/belajar-react/index.html",
+    "precache-manifest.c53cd0cf6e7337210fa64e3c3bd543f9.js": "/belajar-react/precache-manifest.c53cd0cf6e7337210fa64e3c3bd543f9.js",
+    "service-worker.js": "/belajar-react/service-worker.js",
+    "static/css/main.71bd5e9e.chunk.css.map": "/belajar-react/static/css/main.71bd5e9e.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.038f0190.js",
+    "static/js/2.34553e6c.chunk.js",
+    "static/css/main.71bd5e9e.chunk.css",
+    "static/js/main.d2731c9f.chunk.js"
+  ]
+}
